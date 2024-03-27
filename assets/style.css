@@ -55,11 +55,23 @@ p {
     background-position: center;
 }
 
+<<<<<<< HEAD
 .float-left, .float-right {
+=======
+.float-left {
+>>>>>>> fbfdd6d4e3aacded7f5746ab0ee1e7b7444491a7
     float: left;
     margin-right: 25px;
 }
 
+<<<<<<< HEAD
+=======
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+>>>>>>> fbfdd6d4e3aacded7f5746ab0ee1e7b7444491a7
 .content {
     width: 75%;
     display: inline-block;
